@@ -1,0 +1,1 @@
+export { createAutoMergedRequest } from "./autoMergeReq";
